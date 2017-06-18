@@ -1,0 +1,20 @@
+{
+    "name": "coords-site",
+    "description": "website for COORDS cables",
+    "version": "0.0.0",
+    "private": true,
+    "author": "Arjun Ray",
+    "homepage": "http://coordscables.com",
+    "contributors": ["Arjun Ray <deconstructionalism@gmail.com> (https://github.com/deconstructionalism)"],
+    "bugs": { "url": "" },
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "sass": "^1.0.0-beta.1",
+        "webpack": "^2.6.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.11.0"
+    }
+}
