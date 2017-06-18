@@ -1,12 +1,14 @@
 {
     "name": "coords-site",
     "description": "website for COORDS cables",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "private": true,
     "author": "Arjun Ray",
-    "homepage": "http://coordscables.com",
+    "homepage": "https://github.com/deconstructionalism/coords-website/",
     "contributors": ["Arjun Ray <deconstructionalism@gmail.com> (https://github.com/deconstructionalism)"],
-    "bugs": { "url": "" },
+    "bugs": {
+        "url": "https://github.com/deconstructionalism/coords-website/issues"
+    },
     "scripts": {
         "start": "nodemon app.js"
     },
